@@ -1,0 +1,84 @@
+body{
+	margin: 0;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: red;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+h1, h2 {
+	font-family: 'Dela Gothic One', cursive;
+}
+
+header h1{
+	color: black;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 250px;
+	width: 250px;
+	border: 10px solid black;
+}
+
+main{
+
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	
+	border: 5px solid black;
+	max-width: 100%;
+}
+
+main p1{
+	font-size: 15px;
+}
+
+main ol{
+	font-size: 15px;
+}
+
+p2{
+	margin: 245px;
+	font-size: 15px;
+	font-style: italic;
+	
+}
+
+h2{
+	font-size: 30px;
+	color: red;
+	font-style: italic;
+
+}
+
+footer{
+	text-align: center;
+	font-size: 10px;
+	font-family: Helvetica, ariel, sans-serif;
+	color: black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a{
+	color: black;
+}
+a:hover{
+	color: red;
+}
